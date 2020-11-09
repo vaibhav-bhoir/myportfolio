@@ -348,6 +348,7 @@ main#home h1 {
     background: url("../img/profile2.jpg");
     width: 150px;
     height: 150px;
+    background-size:cover;
   }
   .about-info {
     grid-template-areas: "bioimage" "bio" "job1" "job2" "job3";
