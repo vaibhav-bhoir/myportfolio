@@ -328,6 +328,7 @@ div.menu-branding.show {
     background: url("../img/portrait_small.jpg");
     width: 150px;
     height: 150px;
+    background-size:cover;
   }
 
   .about-info {
